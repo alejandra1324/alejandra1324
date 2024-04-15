@@ -1,6 +1,11 @@
 <h1 align="center">Hola 👋, Soy Maria Alejandra Vargas Liz</h1>
 <h3 align="center">Desarrolladora software</h3>
 
+<p dir="auto">
+  <a target="_blank" rel="noopener noreferrer" href="[https://github.com/borgesmj/borgesmj/blob/ES/github-banner.png](https://media.licdn.com/dms/image/C4E16AQHzmV5tfMgvZQ/profile-displaybackgroundimage-shrink_200_800/0/1615318841876?e=2147483647&v=beta&t=ghO-nfWtKmZHBSzi-c-N_B8hSx3Pah14LS_5oIUD4gw)">
+    <img src="https://media.licdn.com/dms/image/C4E16AQHzmV5tfMgvZQ/profile-displaybackgroundimage-shrink_200_800/0/1615318841876?e=2147483647&v=beta&t=ghO-nfWtKmZHBSzi-c-N_B8hSx3Pah14LS_5oIUD4gw" alt="" style="max-width: 100%;">
+  </a></p>
+
 - 🌱 Estoy estudiando mas sobre **Java con spring boot**
 
 - 👨‍💻 He trabajado como freelance en [Conjunto a la mano](https://www.enconjuntoalamano.com/)
