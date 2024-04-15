@@ -4,16 +4,16 @@
     <img src="https://github.com/alejandra1324/alejandra1324/blob/main/banner.jpg" alt="" style="max-width: 100%;">
   </a></p>
 
-<h1 align="center">💻 Sobre mi:</h1>
+<h1 align="left" >💻 Sobre mi:</h1>
 
-- ⚡ Soy **Ingeniera de sistemas con más de 5 años de experiencia especializada en el desarrollo de plataformas web. A lo largo de mi carrera, he participado en una variedad de proyectos, aplicando las metodologías y herramientas más actuales del mercado. Mi enfoque se centra en la adaptación al cambio y la colaboración efectiva en equipos multidisciplinarios. Disfruto compartiendo el conocimiento adquirido a lo largo de estos años y enfrentándome a nuevos desafíos. Me apasiona trabajar con diversas tecnologías para impulsar mi crecimiento profesional y tengo un interés constante en aprender nuevas tecnologías que amplíen mi conjunto de habilidades.**
-
+Mi nombre es **Maria Alejandra Vargas Liz** Soy Ingeniera de sistemas con más de 5 años de experiencia especializada en el desarrollo de plataformas web. A lo largo de mi carrera, he participado en una variedad de proyectos, aplicando las metodologías y herramientas más actuales del mercado. Mi enfoque se centra en la adaptación al cambio y la colaboración efectiva en equipos multidisciplinarios. Disfruto compartiendo el conocimiento adquirido a lo largo de estos años y enfrentándome a nuevos desafíos. Me apasiona trabajar con diversas tecnologías para impulsar mi crecimiento profesional y tengo un interés constante en aprender nuevas tecnologías que amplíen mi conjunto de habilidades.
 
 - 🌱 Estoy estudiando mas sobre **Java con spring boot**
 
 - 👨‍💻 He trabajado como freelance en el siguiente projecto [Conjunto a la mano](https://www.enconjuntoalamano.com/)
 
-- escríbeme a **alejandra12vargasliz@gmail.com**
+<h1 align="left" >☎️ Contacto </h1>
+**alejandra12vargasliz@gmail.com**
 - 
 <h3 align="left">Redes sociales:</h3>
 <p align="left">
