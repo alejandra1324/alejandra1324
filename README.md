@@ -1,11 +1,19 @@
 <h1 align="center">Hola 👋, Soy Maria Alejandra Vargas Liz</h1>
 <h3 align="center">Desarrolladora software</h3>
 
+- 🌱 Estoy estudiando mas sobre **Java con spring boot**
+
+- 👨‍💻 He trabajado como freelance en [Conjunto a la mano](https://www.enconjuntoalamano.com/)
+
 - escríbeme a **alejandra12vargasliz@gmail.com**
+
+- ⚡ Soy **Ingeniera de sistemas con más de 5 años de experiencia especializada en el desarrollo de plataformas web. A lo largo de mi carrera, he participado en una variedad de proyectos, aplicando las metodologías y herramientas más actuales del mercado. Mi enfoque se centra en la adaptación al cambio y la colaboración efectiva en equipos multidisciplinarios. Disfruto compartiendo el conocimiento adquirido a lo largo de estos años y enfrentándome a nuevos desafíos. Me apasiona trabajar con diversas tecnologías para impulsar mi crecimiento profesional y tengo un interés constante en aprender nuevas tecnologías que amplíen mi conjunto de habilidades.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/maria-alejandra-vargas-liz-1169451a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maria-alejandra-vargas-liz-1169451a6" height="30" width="40" /></a>
+<a href="https://fb.com/100001690220694" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100001690220694" height="30" width="40" /></a>
+<a href="https://instagram.com/ale_vargas.liz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ale_vargas.liz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
