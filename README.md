@@ -1,8 +1,6 @@
-<h1 align="center">Hola 👋, Soy Maria Alejandra Vargas Liz</h1>
-<h3 align="center">Desarrolladora software</h3>
-
+<h1 align="center">Hola 👋</h1>
 <p dir="auto">
-  <a target="_blank" rel="noopener noreferrer" href="[https://github.com/borgesmj/borgesmj/blob/ES/github-banner.png](https://media.licdn.com/dms/image/C4E16AQHzmV5tfMgvZQ/profile-displaybackgroundimage-shrink_200_800/0/1615318841876?e=2147483647&v=beta&t=ghO-nfWtKmZHBSzi-c-N_B8hSx3Pah14LS_5oIUD4gw)">
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/alejandra1324/alejandra1324/blob/main/banner.jpg">
     <img src="https://github.com/alejandra1324/alejandra1324/blob/main/banner.jpg" alt="" style="max-width: 100%;">
   </a></p>
 
